@@ -1,2 +1,2 @@
-# Advanced_Computing_For_Social_Change_DC
-repository for ACSC DC workshop
+# ADVANCED COMPUTING FOR SOCIAL CHANGE
+Your source for information on the ACSC in DC workshop
